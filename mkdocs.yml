@@ -1,19 +1,6 @@
-site_name: Zookeeper On K8s
-nav:
-  - 版本文档:
-    - 220130:
-      - 版本说明文档: '220130/README.md'
-      - 部署说明文档: '220130/deploy.md'
-      - 参数模版部署说明文档: '220130/deploy-template.md'
+site_name: My Docs
 theme:
   name: material
-extra_css: [extra.css]
-extra_javascript: [menu.js]
-repo_name: Gitlab
-docs_dir: release-docs
-repo_url: https://g.hz.netease.com/hzchenchen01/zookeeper-docs
-edit_uri: https://g.hz.netease.com/hzchenchen01/zookeeper-docs/edit/master
-
 extra:
   version:
     provider: mike
